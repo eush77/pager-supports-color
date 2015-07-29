@@ -4,7 +4,7 @@
 
 [![Build Status][travis-badge]][travis] [![Dependency Status][david-badge]][david]
 
-Detect whether `$PAGER` supports color.
+Detect whether `$PAGER` supports ANSI color escape sequences.
 
 [travis]: https://travis-ci.org/eush77/pager-supports-color
 [travis-badge]: https://travis-ci.org/eush77/pager-supports-color.svg
